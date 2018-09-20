@@ -1,0 +1,27 @@
+{
+  "name": "chat_app_animesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angadsharma1016/p2p_chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angadsharma1016/p2p_chat/issues"
+  },
+  "homepage": "https://github.com/angadsharma1016/p2p_chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16",
+    "socket.io": "^2.1.1"
+  }
+}
