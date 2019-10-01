@@ -7,7 +7,7 @@
 
 <br />
 
-* Download nodejs and check if it is downloaded
+* Download nodejs and check if it is downloaded.
 
 <br />
 
